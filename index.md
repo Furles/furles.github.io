@@ -15,14 +15,14 @@ Klasyfikator Obrazów wykorzystujący Python i OpenCV do detekcji jakości produ
 [Zobacz kod](https://github.com/Furles/ADM_Egg_Classifier)
 
 **Skrypt do automatyzacji transakcji (Python, Binance API)**
-Autorski system algorytmiczny (Volatility Scalping) działający nieprzerwanie w środowisku produkcyjnym od 3 miesięcy. Skrypt integruje się z giełdą za pomocą Binance API, posiada wbudowany moduł zarządzania ryzykiem oraz system zdalnego sterowania i powiadomień oparty na bocie w aplikacji Telegram.
+System algorytmiczny działający nieprzerwanie w środowisku produkcyjnym od 3 miesięcy. Skrypt integruje się z giełdą za pomocą Binance API, posiada wbudowany moduł zarządzania ryzykiem oraz system zdalnego sterowania i powiadomień oparty na bocie w aplikacji Telegram.
 
 [Zobacz kod](LINK_DO_REPOZYTORIUM)
 
 ## Umiejętności
-- **Programowanie:** Python (Pandas, OpenCV), Java.
+- **Programowanie:** Python, Java.
 - **Dane:** SQL, zaawansowany Excel, wizualizacja danych.
-- **Narzędzia:** Git, Linux, Docker (jeśli używasz).
+- **Narzędzia:** Git, Linux.
 
 ## Kontakt
 michalbabiarz12@gmail.com
